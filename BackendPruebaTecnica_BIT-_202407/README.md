@@ -35,7 +35,7 @@
 ### Paso a Paso  
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/LuisaCastano40/BackendPruebaTecnica_BIT-_202407.git
+   git clone 
 
 2. Instala las dependencias necesarias: 
     ```bash
@@ -58,8 +58,7 @@
 ## Autoría  
 Este proyecto fue desarrollado como material educativo para estudiantes de BIT +. Si tienes preguntas o sugerencias, no dudes en contactarme.  
 
-- **Autor:** Luisa Castaño Vanegas
-- **GitHub:** [LuisaCastano40](https://github.com/LuisaCastano40)  
-- **LinkedIn:** [Perfil de linkedIn](https://www.linkedin.com/in/luisacastanovanegas/) 
+- **Autor:** Abril Lucia Castellanos
+- **GitHub:** [Abril Castellanos](https://github.com/Abril1Lucia)  
 
 ¡Explora los ejemplos y adapta las soluciones a tus propios proyectos!
