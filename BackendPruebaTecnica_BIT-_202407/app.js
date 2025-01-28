@@ -21,5 +21,4 @@ app.get('/', (res, req)=>{
     res.send('Hola :D');
 });
 
-//hola
 export default app
