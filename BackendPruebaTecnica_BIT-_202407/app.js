@@ -17,7 +17,7 @@ app.use(cors());
 app.use(express.json());
 app.use('/usuarios', usersRouter);
 app.use('/iniciarSesion', loginRouter);
-app.get('/', (res, req)=>{
+app.get('/', (req, res)=>{
     res.send('Hola :D');
 });
 
